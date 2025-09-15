@@ -1,4 +1,4 @@
-package Chapitre1;
+package Prosit1;
 
 // Instruction 1
 
